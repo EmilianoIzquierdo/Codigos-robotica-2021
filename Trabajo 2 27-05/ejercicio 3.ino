@@ -33,3 +33,15 @@ grados= grados + 1;
     estado=false;}
 }
   
+  void can(){
+
+    if(estado==false){
+      estado=true;
+    }
+    else{estado=false;
+        }
+
+      
+  
+  }
+
